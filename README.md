@@ -2,7 +2,7 @@
 
 ## Rebuttal
 Please find the updated manuscript in "updated_manuscript.pdf" <br/>
-Please find the our best result on mimic in "eval_mimic.ipynb" with output: <br/>
+Also, you can evaluate our best result on mimic in "eval_mimic.ipynb" with output: <br/>
 
 ```
 {
